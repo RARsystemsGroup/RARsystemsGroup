@@ -1,16 +1,27 @@
-## Hi there 👋
+# RAR Systems Group
 
-<!--
-**RARsystemsGroup/RARsystemsGroup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent analysis of advertising platform enforcement systems, trust signals, and account stability failures.
 
-Here are some ideas to get you started:
+## Purpose
+This repository documents recurring patterns observed across major advertising platforms where legitimate businesses experience account suspensions, payment trust issues, policy restrictions, or unexplained delivery failures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The focus is on understanding *how* enforcement systems behave at a structural level, rather than offering platform-specific support or promotional services.
+
+## Focus Areas
+- Google Ads account suspensions and restrictions
+- Billing, payments, and trust profile failures
+- Policy enforcement edge cases and false positives
+- System-level risks affecting long-running advertiser accounts
+- Stability challenges faced by agencies and client-managed accounts
+
+## Intended Audience
+Business owners, consultants, agencies, and operators who rely on paid media platforms and are impacted by opaque enforcement or trust-related disruptions.
+
+## Scope & Notes
+- This repository reflects independent analysis and observed patterns
+- It is not affiliated with Google or any advertising platform
+- Content here is informational and analytical in nature
+- No confidential or proprietary platform data is included
+
+## Status
+Actively maintained as new patterns and enforcement behaviors emerge.
